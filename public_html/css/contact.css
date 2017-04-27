@@ -1,0 +1,31 @@
+*{
+   
+}
+form{
+    width: 27%;
+    height: auto;
+    background-color: #8fc7dc;
+    text-align: center;
+    border:#5f87d7 solid 5px;
+    border-radius: 2px;
+    margin: 15% 0 0 38%;
+    min-height:  27%;
+   
+}
+
+input{
+    height: 25px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+input[type = submit]{
+    background-color: #5f87d7;
+    color: white;
+}
+input[type = submit]:hover{
+    background: #002164;
+}
+input[name = texto]{
+    padding-bottom:  40%;
+   
+}
